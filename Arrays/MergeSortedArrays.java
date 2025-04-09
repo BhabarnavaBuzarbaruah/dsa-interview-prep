@@ -1,3 +1,5 @@
+// Problem: Merge two sorted arrays into one sorted array
+// Assumption: Both arrays are sorted in non-decreasing order
 public static int[] mergeArrays(int[] arr1, int[] arr2) {
         int n1 = arr1.length;
         int n2 = arr2.length;
