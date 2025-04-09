@@ -1,3 +1,4 @@
+// Problem: Convert the first letter of each word in a string to uppercase 
 public static String toUpperCase(String name) { // TC: O(n)
     StringBuilder sb = new StringBuilder("");
 
